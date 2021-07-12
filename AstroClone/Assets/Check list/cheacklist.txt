@@ -1,0 +1,6 @@
+player will move forrword automatically
+there will be two buttons
+one button for shooting / aouther for rotating
+to score freez player by shooting him and move him to goal with shooting or touching him
+all astro party power ups will be in (alihani and my opinion salman needs to comfirm the idea)
+if u thing anything left add it to the list
